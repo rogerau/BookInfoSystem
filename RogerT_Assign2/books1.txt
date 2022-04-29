@@ -1,0 +1,6 @@
+The C# Programming Yellow Book: Learn to program in C# from first principles,Rob Miles,222
+The Art of Computer Programming (Volumes 1-4A),Donald E. Knuth,3168
+Learn Java: A Crash Course Guide to Learn Java in 1 Week,Timothy C. Needham,178
+Flutter For Beginners: A Genius Guide to Flutter App Development,Edward Thornton,272
+Baby Loves Coding!,Ruth Spiro - Irene Chan,22
+The Book of R: A First Course in Programming and Statistics,Tilman M. Davies,832
